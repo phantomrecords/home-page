@@ -1,0 +1,42 @@
+# Prevent system and IDE clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node and package tools (if added later)
+node_modules/
+dist/
+.cache/
+.vite/
+.build/
+*.log
+
+# OS-specific temp files
+*.swp
+*.tmp
+*.bak
+*.backup
+*.orig
+
+# Common project metadata
+*.env
+*.env.*
+*.local
+*.secret
+*.pem
+*.crt
+*.key
+
+# GitHub Pages and Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# VSCode project folder (optional)
+.vscode/
+
+# Avoid accidental uploads of personal backups
+*~ 
+*.old
+*.copy
