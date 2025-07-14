@@ -1,4 +1,4 @@
-# Phantom Records Home Page
+# Phantom Records Home-Page
 
 This is the GitHub repository for Phantom Records, General Partnership.
 
